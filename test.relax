@@ -1,0 +1,55 @@
+group: ITS
+MahasiswaITS = {
+
+Nama, NRP, Departemen, Asal, Angkatan
+'Andi', 0009, 'Teknik Komputer', 'Surabaya', 2017
+'Bima', 0003, 'Teknik Mesin', 'Surabaya', 2018
+'Afwan', 0192, 'Sistem Informasi', 'Jakarta', 2019
+'Toni', 0283, 'Teknik Mesin', 'Bandung', 2018
+'Charlie', 0982, 'Arsitektur', 'Palembang', 2019
+'Rasyid', 1920, 'Sistem Informasi', 'Aceh', 2017
+'Dimas', 3928, 'Informatika', 'Denpasar', 2019
+'Brian', 3782, 'Teknik Elektro', 'Banyuwangi', 2017
+'Salsa', 0182, 'Fisika', 'Sidoarjo', 2018
+'Dewi', 2384, 'Matematika', 'Banten', 2017
+
+}
+DosenITS = {
+Nama, Departemen, NIP, Asal
+
+'DP', 'Sistem Informasi', 'D002', 'Surabaya'
+'AN', 'Teknik Mesin', 'D023', 'Malang'
+'SL', 'Teknik Komputer', 'D090', 'Sidoarjo'
+'SO', 'Informatika', 'D109', 'Surabaya'
+'AD', 'Arsitektur', 'D291', 'Jakarta'
+'AS', 'Matematika', 'D210', 'Banyuwangi'
+'FS', 'Fisika', 'D382', 'Sidoarjo'
+'SK', 'Biologi', 'D201', 'Banten'
+'AS', 'Matematika', 'D211', 'Makassar'
+
+}
+DepartemenITS = {
+
+Departemen, Kode, Fakultas
+'Arsitektur', 'DP03', 'FADP'
+'Sistem Informasi', 'DP09', 'FTIK'
+'Informatika', 'DP10', 'FTIK'
+'Teknik Mesin', 'DP12', 'FTI'
+'Teknik Elektro', 'DP02', 'FTE'
+'Teknik Komputer', 'DP01', 'FTE'
+'Fisika', 'DP15', 'FMIPA'
+'Matematika', 'DP22', 'FMKSD'
+'Biologi', 'DP20', 'FMIPA'
+
+}
+FakultasITS = {
+
+Fakultas, Kode
+'FADP', 'F03'
+'FTIK', 'F02'
+'FTI', 'F01'
+'FTE', 'F05'
+'FMKSD', 'F04'
+'FMIPA', 'F06'
+
+}
